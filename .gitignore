@@ -1,0 +1,6 @@
+*
+!.gitignore
+!ec2/
+!main.tf
+!ec2/*
+!README.md
