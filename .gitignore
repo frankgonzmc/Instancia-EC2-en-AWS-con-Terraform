@@ -7,4 +7,6 @@
 !variables.tf
 !terraform.tfvars
 !modulos/*
+!security-groups/*
+!security-groups/
 !README.md
