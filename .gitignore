@@ -1,6 +1,10 @@
 *
 !.gitignore
-!ec2/
+!modulos/
 !main.tf
-!ec2/*
+!outputs.tf
+!providers.tf
+!variables.tf
+!terraform.tfvars
+!modulos/*
 !README.md
