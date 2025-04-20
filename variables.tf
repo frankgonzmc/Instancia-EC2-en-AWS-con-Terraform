@@ -1,4 +1,9 @@
-variable "region" {
-  description = "Variable para modificar las regiones"
-  default = "us-east-1"
+variable "key_name" {
+  description = "Nombre de la clave SSH"
+  type        = string
+}
+
+variable "public_key_path" {
+  description = "Ruta del archivo .pub"
+  type        = string
 }
